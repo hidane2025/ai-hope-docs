@@ -13,8 +13,7 @@ AI HOPE コミュニティの公開ドキュメントを管理しているリポ
 
 ## 📮 お問い合わせ
 
-- Email: `hidane.2025@gmail.com`
-- Discord: AI HOPE サーバー内 `@管理人チュウ` への DM
+AI HOPE Discord サーバー内 `@管理人チュウ` への DM またはメンションにて受付しております。
 
 ---
 
