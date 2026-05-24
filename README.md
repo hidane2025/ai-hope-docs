@@ -4,6 +4,7 @@ AI HOPE コミュニティの公開ドキュメントを管理しているリポ
 
 ## 📜 ドキュメント
 
+- [利用規約](./terms-of-service.md)
 - [プライバシーポリシー](./privacy-policy.md)
 
 ## 🏢 運営
